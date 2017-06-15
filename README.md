@@ -3,9 +3,6 @@ Below is a list of the resources I used to learn programming in Python. Maybe th
 
 All entries include a link to a resource, the approximate time I have spent on completing it, price info and a short description.
 
-## Heading 2
-  - [Name](link) Time: Price: Description
-
 ## Python Basics
 Beginner-level tutorials (no previous programming knowledge needed), that I used as a first step to learn the basics of Python syntax.
   - [Codecademy's Python tutorial](https://www.codecademy.com/learn/python) Time: ca. 20h Price: Free
@@ -26,6 +23,23 @@ Having grasped the fundamental syntax of Python, I was ready to combine it with 
   This one is just so awesome. Don't mind that the code itself is in C for the most part. I only watched the lectures (w/out doing the problem sets) and treated them like my new favourite TV series. To some extent it covered the same fundamental programming concepts as the MIT one and I used it to just get a better grasp of the foundations. I love the energy prof. David Malan and the team. And the physical 'stagings' of data structures and algorithms really helped me to understand their underlying implementations. I never thought I would find a lecture on searching and sorting algorithms to be such a pleasure.
 
 ## Intermediate Python
+  - [Python Beyond the Basics: Object Oriented Programming]
+  
+  - [Intermediate Python]
+
+## Django
+  - [DjangoGirls Tutorial]
+
+  - [Try Django]
+
+  - [Digging into Django]
+
+## Electives
+  - [Version control in Git and Github]
+
+  - [Clean code]
+
+  - [testing and debugging]
 
 ## Tools and utilities
   - [Atom](https://atom.io/) My source code editor of choice. It's open source, includes syntax highlighting and can be customised with a lot of useful plug-ins. My favourites are minimap and minimap-highlight-selected (for side preview of the whole source code), linter-pylint and linter-pycodestyle (for static code quality linting and pep-8 compliance) and autocomplete (for suggesting completions).
@@ -35,5 +49,5 @@ Having grasped the fundamental syntax of Python, I was ready to combine it with 
 ## Programming challenges
 More fun and practice. Nevermind that sometimes I will put some serious time into solving tasks marked as 'painless' or 'elementary'. ;)
   - [Checkio](https://checkio.org/)
-  
+
   - [Codility](https://codility.com/)
