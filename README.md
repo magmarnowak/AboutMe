@@ -23,4 +23,17 @@ Having grasped the fundamental syntax of Python, I was ready to combine it with 
   This is the single resource I have spent the most time on. A MOOC MIT course hosted on edX, first of two in a series (I only took the first one). As the creators say on the course homepage: "They are challenging and rigorous courses in which the students spend a lot of time and effort learning to bend the computer to their will." And it was that indeed. I have spent may hours and used additional resources to understand the lectures and solve the problem sets. As the material for each week was rolled out, I would usually start by not having the faintest idea about what the professor was talking about and gradually building my way up to finally breaking through and understanding the concepts. And the break-through would always finally come. It gave me immense satisfaction to persist, do the work and see it's effects in the end. And at the end of the course I got a 95% mark (based on problem sets, mid-term and final exam). It was difficult but it was worth it.
 
   - [Harvard: CS50 Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) Time: ca. 20h Price: Free
-  This one is just so awesome. Don't mind that the code itself is in C. I only watched the lectures (w/out doing the problem sets) and treated them like my new favourite TV series. To some extent it covered the same fundamental programming concepts as the MIT one and I used it to just get a better grasp of the foundations. I love the energy prof. David Malan and the team. And the physical 'stagings' of data structures and algorithms really helped me to understand their underlying implementations. I never thought I would find a lecture on searching and sorting algorithms to be such a pleasure.
+  This one is just so awesome. Don't mind that the code itself is in C for the most part. I only watched the lectures (w/out doing the problem sets) and treated them like my new favourite TV series. To some extent it covered the same fundamental programming concepts as the MIT one and I used it to just get a better grasp of the foundations. I love the energy prof. David Malan and the team. And the physical 'stagings' of data structures and algorithms really helped me to understand their underlying implementations. I never thought I would find a lecture on searching and sorting algorithms to be such a pleasure.
+
+## Intermediate Python
+
+## Tools and utilities
+  - [Atom](https://atom.io/) My source code editor of choice. It's open source, includes syntax highlighting and can be customised with a lot of useful plug-ins. My favourites are minimap and minimap-highlight-selected (for side preview of the whole source code), linter-pylint and linter-pycodestyle (for static code quality linting and pep-8 compliance) and autocomplete (for suggesting completions).
+
+  - [Toogle](https://www.toggl.com) Free time tracking on projects. I basically used it to track how much time I've spent on given resource/course (which I saved as separate projects). So anytime I would sit down to learn, I would start off the timer. Thanks to this, after months I could see what I have spent most time on, compare how much work I have done in given weeks or months etc. It not essential to the programming process itself but it helped me to keep track of my learning path.
+
+## Programming challenges
+More fun and practice. Nevermind that sometimes I will put some serious time into solving tasks marked as 'painless' or 'elementary'. ;)
+  - [Checkio](https://checkio.org/)
+  
+  - [Codility](https://codility.com/)
