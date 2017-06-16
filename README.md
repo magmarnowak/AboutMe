@@ -31,7 +31,7 @@ Having grasped the fundamental syntax of Python, I was ready to combine it with 
 
 ## Django
  As I started to apply for internships, it usually was the case that the recruitment process consisted of a task to build a simple web app in Django. Also, after months spent on learning pure Python, I felt it was time to start working on some more real-life projects and start building a portfolio on github to be able to present my skills during job interviews. So I ventured into Django.
-  - [Try Django](https://www.codeschool.com/courses/try-django) [Digging into Django](https://www.codeschool.com/courses/digging-into-django) Time: 5+6h Price: 9EUR/for the 1st month (I got it with a promo code)
+  - [Try Django](https://www.codeschool.com/courses/try-django) & [Digging into Django](https://www.codeschool.com/courses/digging-into-django) Time: 5+6h Price: 9EUR/for the 1st month (I got it with a promo code)
   As I started to apply for the summer internships, it turned out I had to learn Django fast. I stated with the [tutorial form Django's documentation website](https://docs.djangoproject.com/en/1.11/intro/tutorial01/), but found myself lost. So I decided to reach for Codeschool's paid subscription and try out their two Django courses. And they were right up my alley - I followed the videos along and built a sample app and finally understood the relation between the models, templates, views and the url controller in Django.
 
   - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) Time: 25h Price: Free
