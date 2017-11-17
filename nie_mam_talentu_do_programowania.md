@@ -1,0 +1,55 @@
+# Nie mam talentu do programowania
+
+Chciałabym opowiedzieć Wam jak to się stało, że zaczęłam uczyć się programowania i czego mnie ta droga nauczyła. Mam nadzieję, że znajdziecie w mojej historii praktyczne wskazówki także dla siebie, albo przynajmniej zachętę do działania.
+
+Często kiedy opowiadam komuś z rodziny, jak idzie mi nauka programowania, słyszę wyrazy podziwu, że zdecydowałam się pójść w tym kierunku - przecież zawsze miałam “taki humanistyczny umysł”. Od dziecka chwalono mnie, że mam “talent do języków” (obcych, bo polskiej ortografii do dzisiaj nie ogarniam). Uczyłam się niemieckiego, angielskiego, hiszpańskiego, japońskiego, włoskiego oraz amharskiego.
+
+Moim siódmym językiem obcym jest Python.
+
+## Droga rzadziej uczęszczana
+
+Jak się już domyślacie, moja droga do programowania była dość nietypowa. Nie zaczęła się od komputera Odra przyniesionego do domu przez tatę. Nie napisałam swoich pierwszych linijek kodu w wieku 8, a 28 lat. Przed październikiem zeszłego roku nie miałam jeszcze pojęcia, że Java i JavaScript nie są ze sobą spokrewnione, a moje pojęcie o tym czym jest backend, a czym frontend było dosyć mgliste.  
+
+Z wykształcenia jestem socjolingwistką i uwielbiałam moje studia. Jeszcze kiedy byłam w liceum i przejeżdżałam koło budynków uniwersytetu przy placu Adam Mickiewicza w Poznaniu, marzyłam o tym, jak wspaniale byłoby w tych budynkach studiować. Czas studiów, a zwłaszcza czas licencjatu, wspominam jako jeden z najszczęśliwszych etapów w swoim życiu. Mniej więcej na etapie drugiego roku studiów zaczęłam pomagać w organizacji konferencji naukowych i marzyłam, żeby kiedyś w nich uczestniczyć.
+
+Moja pasja i praca dawały też wymierne efekty w postaci wysokich średnich oraz stypendiów naukowych. Dostałam nagrodę dziekana za najlepszą pracę magisterską na roku i aplikowałam na studia doktoranckie. Wiedziałam już, że praca naukowa to jest to, co chcę robić w życiu, coś w czym jestem naprawdę dobra i co mnie pasjonuje. Na doktorat dostałam się z pierwszego miejsca na liście rekrutacyjnej... I po dwóch latach z niego zrezygnowałam.
+
+Te dwa lata spędziłam w stanie narastającego, coraz bardziej obezwładniającego strachu, że mi nie wyjdzie. Temat moich badań był wtórny, metodologia gwarantowała, że reprodukowalność wyników będzie niemożliwa, na konferencjach pies z kulawą nogą nie zadawał mi pytań, brakowało mi mentora albo współpracy naukowej z innymi badaczami. I chociaż byłam coraz bardziej zdesperowana, nie potrafiłam sobie sama z tym poradzić. Decyzja o tym, żeby z doktoratu zrezygnować była najtrudniejszą w moim życiu. Ale dzisiaj jej nie żałuję.
+
+Po odejściu z uczelni musiałam na nowo odnaleźć się w świecie. Nie miałam już jasno wytyczonej wizji tego, co będę w życiu robić. Wiedziałam, że chcę psychicznie odpocząć i robić coś, z czym nie będę tak bardzo ambicjonalnie związana. Zapewne nie zdziwi Was fakt, że wylądowałam w korporacyjnym open spejsie. Praca była znośnie płatna, ze wszystkimi standardowymi benefitami. Pracowałam dla dyrektorów i dyrektorek z Londynu, Brukseli czy Dusseldorfu. Miała jeden duży minus - była przeraźliwie mało rozwijająca.
+
+Po trzech miesiącach czułam, że brakuje mi intelektualnej stymulacji, a po pół roku już wiedziałam, że niczego nowego na tym stanowisku się nie nauczę. Co gorsza, miałam poczucie, że ani ta praca nie ma dla mnie większej wartości, ani nie ceniły jej osoby, dla których ją wykonywałam. Wiedziałam więc, że czas szukać czegoś innego. Ale oczywiście nie miałam jasnej wizji czego.
+
+## Przez króliczą norę
+
+W październiku zeszłego roku dowiedziałam się, że ruszają organizowane przez PyLadies warsztaty z Pythona dla początkujących. Odbywały się one raz w tygodniu, po godzinach pracy, całkiem niedaleko biura. Pierwszy raz wybrałam się na nie z czystej ciekawości. I to była moja królicza nora, przez którą trafiłam do świata kodu. Zgromadziłam oszczędności i w styczniu tego roku odeszłam z pracy, żeby w pełni skupić się na przekwalifikowaniu.
+
+Na warsztaty PyLadies chodziłam do ostatnich zajęć, które odbyły się na początku czerwca. Zaczęłam też uczyć się sama, z kursów online. Dostępność, jakość i ilość zasobów, dzięki którym można samodzielnie zacząć uczyć się programowania była dla mnie jednym z kluczowych czynników, który dodatkowo zachęcił mnie do przekwalifikowania. Zdecydowanie obniżył próg wejścia. Zaczęłam od prostych kursów hands-on, dzięki którym zapoznałam się z podstawą Pythonowej składni, by następnie stopniowo przejść do bardziej złożonych zagadnień.
+
+W ten sposób opanowałam podstawy programowania obiektowego, kontrolę wersji w Git czy podstawy tworzenia aplikacji webowych w Django. Lista materiałów, z których korzystałam i które polecam jest dostępna na moim GitHubie. Dodałam do nich krótki opis oraz informacje o tym, ile czasu spędziłam na przerobieniu materiałów i czy musiałam za nie coś płacić (w większości nie).
+
+Poza uczeniem się online, żeby kompletnie się nie odspołecznić, zaczęłam też chodzić na meet-upy i konferencje. Nawet jeżeli omawiane tematy były mi jeszcze obce, zawsze wyciągałam z nich chociaż powierzchowne pojęcie o nowych konceptach czy technologiach. I cały czas poszerzał mi się ogólny ogląd dziedziny. Różnorodność inicjatyw programistycznych, w tym też tych zachęcających kobiety do wejścia w IT, była drugim najważniejszym czynnikiem, który zachęcił mnie do pójścia w kierunku programowania (na blogu Kobiety Do Kodu możecie znaleźć ich niewyczerpujący wykaz).
+
+Otwartość ludzi ze świata IT zrobiła na mnie ogromne wrażenie. A okazja do spotkania innych osób, które też pojawiły się w tej branży z kompletnie niezwiązanych z nią dziedzin, zawsze dawała mi jeszcze więcej pozytywnej energii. Mało co daje mi taki zastrzyk motywacji i inspiracji, jak spotkania i rozmowy z dziewczynami, które też zdecydowały się przekwalifikować. Zamiast słuchać wewnętrznego głosu zwątpienia, cały czas słyszałam słowa zachęty. Jestem pewna, że gdy zdobędę wiedzę i doświadczenie, którymi będę mogła się dzielić i przekazywać dalej, na pewno zgłoszę się jako coach czy mentor do jednej z inicjatyw.
+
+Dosyć szybko zaczęłam też chodzić na targi pracy. Nawet jeżeli nie czułam się jeszcze gotowa, by na jakiekolwiek stanowiska aplikować, to wyciągałam z tych wycieczek dużo informacji o firmach, do których mogłabym aplikować w przyszłości. W ten sposób dowiedziałam się też o różnych możliwościach stażowych i szybko zaczęłam sama rozsyłać do firm e-maile z pytaniami czy nie prowadzą programów stażowych.
+
+Ostatnim - i chyba najważniejszym - czynnikiem, który zadecydował o tym, że zaczęłam poważnie myśleć o przebranżowieniu, była radość jaką dawała mi nauka programowania. Paradoksalnie, podejście do tej zupełnie nowej dziedziny, co do której nikt nigdy nie przypisał mi talentu czy predyspozycji, było dla mnie wyzwalające. Żeby było jasne, nie pochwalam tu tego, że dziewczyny są często wychowywane w przekonaniu, że nauki ścisłe nie są dla nich. Mówię o tym, że zmieniłam swoje myślenie na temat tego, jaką rolę w moim rozwoju odgrywają talent i predyspozycje.
+
+Uczenie się czegoś, wobec czego nie miałam uprzednich przeświadczeń co do moich ‘uzdolnień’, pozwoliło mi docenić postępy, jakie robiłam w nauce jako wynik mojej konsekwentnej pracy, a nie traktować je jako dowód, że się do tego nadaję. Każda kolejna linijka kodu, każdy kolejny skrypt, który działał zgodnie ze specyfikacją, były dla mnie ogromnym źródłem satysfakcji. Myślę, że do zmiany w myśleniu o tym co oznaczają dla mnie moje sukcesy w nauce, przyczynił się też charakter samego programowania.
+
+Pisząc jakiś kod, z góry wiedziałam, że mi się on ‘wysypie’ i że będę musiała go wielokrotnie poprawiać, aby wreszcie dojść do działającego skryptu. Ten cykliczny proces robienia błędów, identyfikowania ich, szukania rozwiązań i testowania traktowałam nie jako dowód, że nie potrafię kodować, tylko jako nieodłączny element programowania. Myślę, że jest w tym coś inherentnie rozwojowego. Patrzenie na błędy nie jako na dowód swojej słabości, ale jako na elementy systemu, które należy zmienić, uwolniło mnie od ciężaru konieczności udowadniania komukolwiek (w tym sobie samej) mojego talentu bądź jego braku.
+
+To co mnie dodatkowo motywowało, to kompletny brak magii w całym procesie. Założyłam, że wystarczy jeśli będę konsekwentna, włożę wysiłek w to, by zrozumieć zagadnienia i procesy dla mnie trudne i będę szukać pomocy kiedy gdzieś utknę. Uzmysłowiłam sobie, że nie potrzebuję do programowania wyjątkowych uzdolnień, ani specjalnych talentów. Dopóki będzie mi to sprawiać satysfakcję i dopóki będę potrafiła zaakceptować porażki i się na nich uczyć, to będzie to mój sukces.
+
+## Chrzest ognia
+
+W lipcu rozpoczęłam bezpłatne praktyki w zespole developerskim, na które dostałam się za pośrednictwem PyLadies. Właśnie minęły dwa miesiące od ich rozpoczęcia. Wiedziałam, że będzie ciężko, ale nie myślałam, że aż tak. Z jednej strony mam bardzo fajny zespół, w którym każdy jest gotowy do pomocy, i uczę się tego co najtrudniejsze - tworzyć aplikację, kiedy nikt nie prowadzi mnie za rękę. Z drugiej, cały czas uczę się mierzyć z tym, że siłą rzeczy robię wszystko bardzo wolno, a moje małe kroki do przodu i rzeczy, z których byłabym dumna, gdybym zrobiła je sama w domu, wydają się błahe. Często zdarza się, że gdy proszę o pomoc, z odpowiedzi rozumiem jakieś 15%. Zdarzyło mi się już z tego powodu po prostu popłakać. A jednak cały czas walczę.
+
+Ostatnio zaczęłam pracować nad bardziej webowymi aspektami aplikacji, którą współtworzę. Dzięki temu również JavaScript przestał być mi obcy. Zaczęłam od tworzenia formularza w HTML i podpięcia do niego funkcji javascriptowych. Spędziłam weekend ucząc się o różnych atrybutach elementów formularza, o tym czym się różni metoda GET od POST, o tym jak przekazywane są wartości wpisane w formularz. Na pierwszy rzut oka te rzeczy mogą wydawać się nudne, ale ja miałam ogromną frajdę, kiedy wszystko zadziałało jak trzeba. Znowu czułam tę satysfakcję, jak wtedy gdy uczyłam się w domu. Dumę z każdego najmniejszego sukcesu. Zabrakło mi tylko usłyszeć od kogoś z zespołu: "Hej, dobra robota".
+
+Wygląda na to, że jeszcze długo tego nie usłyszę. I, że jeszcze długo będę najsłabsza, najwolniejsza i przytłoczona ogromną liczbą rzeczy, których nie rozumiem nawet jak mi je ktoś tłumaczy. Ale się nie poddaję! Wierzę, że jak zacisnę zęby, podwoję wysiłki, to w końcu się przebiję. Może i ze łzami w oczach, ale prąc do przodu krok po kroczku.
+
+## Epilog
+
+Nauka programowania pozwoliła mi nie tylko odnaleźć zupełnie nową drogę zawodową, ale też totalnie zmieniła moje myślenie o tym do czego się nadaję i co mogę robić w życiu. Dała mi ogromnego kopa, żeby wychodzić z inicjatywą i zmieniać stan rzeczy, kiedy tylko przestaje mi się on podobać. Już na dobre przestałam myśleć o sobie jako o humanistce. Każdy kolejny działający skrypt, który piszę jest dla mnie dowodem na to, że to nie dzięki tzw. zdolnościom, humanistycznemu czy ścisłemu umysłowi, albo wrodzonemu talentowi, ale dzięki systematycznej pracy, uczeniu się na błędach i wytrwałości zostanę programistką.
