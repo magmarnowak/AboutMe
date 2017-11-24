@@ -1,35 +1,35 @@
-Jak zostać programistką i nie zwariować: 7 rad
+# Jak zostać programistką i nie zwariować: 7 rad
 
 Rok temu napisałam pierwszą linijkę kodu. Wczoraj w pracy prezentowałam pierwszy projekt jaki współtworzyłam jako programistka. Właśnie minęły trzy miesiące odkąd zaczęłam praktyki w zespole IT. Założenie tej prezentacji jest proste: Chciałabym się z Wami podzielić 7 radami, jakie wyciągnęłam z mojego dotychczasowego doświadczenia. 2 z nich dotyczą nauki, 2 poszukiwania pracy, 2 pierwszej pracy, a ostatnia jest radą na życie. ;)
 
-Rada #1: Znajdź sposób, który działa dla Ciebie
+## #1: Znajdź sposób, który działa dla Ciebie
 
 Dostępność, jakość i ilość zasobów, dzięki którym można samodzielnie zacząć uczyć się programowania zdecydowanie obniża próg wejścia w ten świat. Pisz kod od pierwszego momentu Twojej nauki. Możesz zacząć od prostych kursów hands-on typu codecademy, datacamp, freecodecamp, dzięki którym zapoznasz się z podstawą składni danego języka, by następnie stopniowo przejść do bardziej złożonych zagadnień. Możesz się sięgnąć po rozbudowane kursy uniwersyteckie na edX czy coursera. Możesz wybrać kursy video, na CodeSchool, Pluralsight czy Egghead.io, często oparte na Tworzeniu jakiegoś małego projektu w danej technologii. Nie możesz zrozumieć jakiegoś zagadnienia? Sprawdź dziesiątki filmików na ten temat na YouTube. Znasz jakiegoś programistę czy programistkę? Zapytaj ich czy zerwiułują Twój kod na GitHubie. Lubisz uczyć się z książek? SIęgnij po nie, rób notatki, tylko upewnij się, że rozwiązujesz jednocześnie praktyczne zadania. Potrzebujesz bardziej społecznej formy nauki? Zgłoś się na warsztaty organizowane przez wybraną inicjatywę typu DjangoGirls, PyLadies czy RailsGirls. Nie poddawaj się jeżeli nauka idzie Ci jak po grudzie. Wszyscy mamy różne preferencje co do sposobu w jaki przyswajamy wiedzę. Spróbuj innej formy i znajdź to co działa dla Ciebie.
 	 
-Rada #2: Pokochaj błędy
+## #2: Pokochaj błędy
 
 Uwolnij się od ciężaru oczekiwań i poczucia, że błędy są porażką. Jeżeli nie robisz błędów, coś jest nie tak. Błędy są nieodłącznym elementem programowania. Wgryzanie się w nie, żmudne zliczanie nawiasów, poszukiwanie zagubionych przecinków i poprawianie wcięć jest obowiązkowym elementem programu. Niech każda pojedyncza działająca linijka kodu będzie dla Ciebie powodem do dumy. Pisząc jakiś kod, z góry załóż, że Ci się on ‘wysypie’ i że będziesz musiał go wielokrotnie poprawiać. Ten cykliczny proces robienia błędów, identyfikowania ich, szukania rozwiązań i testowania traktuj nie jako dowód, że nie potrafisz kodować, tylko jako nieodłączny element procesu, z którym należy się systematycznie rozprawiać.
 
-Rada #3: Wyjdź do ludzi
+## #3: Wyjdź do ludzi
 
 Wybierz się na lokalne warsztaty, meet-upy czy konferencje. Będzie to okazja do spotkania innych osób, które też pojawiły się w tej branży z kompletnie niezwiązanych z nią dziedzin. Mało co daje taki zastrzyk motywacji i inspiracji, jak spotkania i rozmowy z osobami, które też zdecydowały się przekwalifikować. Zamiast słuchać wewnętrznego głosu zwątpienia, dzielić się słowami zachęty, doświadczeniami, wskazówkami. Porozmawiaj z innymi uczestnikami. Może osoba po Twoje prawej bądź lewej, może Ci pomóc przekroczyć jakąś przeszkodę? Może to Ty możesz pomóc tej osobie? Może poznasz w ten sposób osoby, z którymi będziesz uczyć się razem po spotkaniu? Szybko zorientujesz się, że na tych spotkaniach jest wiele osób, które mają takie same obawy jak ty. Albo, które były już w Twojej sytuacji i mogą Ci dać cenne wskazówki. Nie siedź samotnie przed kompem.
 
-Rada #4: Dziel się kodem
+## #4: Dziel się kodem
 
 A jak już siedzisz przed tym kompem to podziel się tym co robisz. Obowiązkowo wrzuć kod na Githuba. Nie czekaj, aż zaczniesz pisać kod wart pokazywania. Github to nie tylko dobre archiwum Twoich postępów, ale też namacalny dowód Twojej nauki, którym się będziesz mogła legitymować szukając pierwszej pracy/stażu czy praktyk. Przykłady zadań jakie rozwiązałaś będą znaczyły dużo więcej niż suche deklaracje przerobionych kursów czy posiadanych umiejętności. Pomyśl o spisywaniu notatek z nauki na blogu. A jeżeli nie czujesz się jeszcze gotowa na blogosferę, spisz swoje refleksje i przedstaw je na lokalnym meet-upie. Pomyśl co ty chciałabyś była usłyszeć jak zaczynałaś naukę i podziel się tym z innymi.
 
-Rada #5: Nie bądż dla siebie taka wymagająca
+## #5: Nie bądż dla siebie taka wymagająca
 
 Nie oczekuj od siebie, że w pierwszej pracy będziesz mogła się równać z bardziej doświadczonymi osobami, czy osobami po studiach kieryunkowych. Nie wymagaj od siebie, by ich lata nauki i doświadczeń nadrobić w kilka miesięcy. Będziesz najwolniejsza, do tego może najstarsza w zespole, a z najmniejszą wiedzą.  I to jest zupełnie w porządku! Na początku będzie ogrom nowych rzeczy do nauczenia, i mnóstwo takich, których nie będziesz rozumiała. A z czasem… będzie tak samo. :) W programowaniu musisz cały czas uczyć się nowych rozwiązań czy technologii. Z czasem jedynie przyzwyczaisz się do tego, że cały czas czegoś nie wiesz. Praktyka czyni mistrza. ;)
 
-Rada #6: Proś o to czego potrzebujesz
+## #6: Proś o to czego potrzebujesz
 
 Ponieważ nie możesz się równać z bardziej doświadczonymi osobami, nie powinnaś też być jak one traktowana. Zaczynając swoją pierwszą pracę w IT możesz potrzebować więcej pomocy, feedbacku czy zachęty. Nie zawsze zespół, do którego dołączysz czy jego team leader będą tego świadomi. Możesz być pierwszą osobą po przebranżowieniu jaka dołączyła do zespołu. W takim wypadku, uświadom im to. Staraj się jasno wyartykułować swoje potrzeby - dedykowany mentor, które będzie miał wydzielony czas na pracę z Tobą, odpowiednio dobrana skala zadań, regularne spotkania z kierownikiem projektu i feedback, w którym będziesz mogła wypracować kolejne rozwiązania, które pomogą Ci się lepiej wdrożyć. Ani ty, ani Twój pracodawca nie powinniście oczekiwać, że wystarczy dać Ci jakieś zadanie i samodzielnie się z nim rozprawisz. Pomyśl, że wypracowując odpowiednie rozwiązania, robisz to nie tylko dla siebie, ale też dla kolejnych osób, które przyjdą po Tobie.
 
-Rada #7: Czy Ty się do tego nadajesz?
+## #7: Czy Ty się do tego nadajesz?
 
-Jeżeli kiedykolwiek przez myśl przejdzie Ci, że się do programowania nie nadajesz - niech rozbrzmi w Twojej głowie donośne: BZDURA! Pytanie czy to programowanie się dla Ciebie nadaje. Jeżeli masz z tego frajdę, jeżeli Cię to jara, to się nadajesz! Nie zagwarantuje to Tobie bezproblemowej drogi do sukcesu. Nie ustrzeże Cię przed trudnościami, przebijaniem się przez ściany skomplikowanych zagadnień i żmudną pracą. Przyda się jeszcze konsekwencja, włożenie szczerego wysiłku w to, by zrozumieć zagadnienia i procesy dla Ciebie trudne i szukanie pomocy kiedy gdzieś utkniesz. Nie potrzebujesz do programowania wyjątkowych uzdolnień, ani specjalnych talentów, tylko ciężkiej i konsekwentnej pracy. Dopóki sprawia Ci to satysfakcję i dopóki potrafisz zaakceptować porażki i się na nich uczyć, to będzie to Twój sukces.
+Jeżeli kiedykolwiek przez myśl przejdzie Ci, że się do programowania nie nadajesz - niech rozbrzmi w Twojej głowie donośne: **BZDURA!** Pytanie czy to programowanie się dla Ciebie nadaje. Jeżeli masz z tego frajdę, jeżeli Cię to jara, to się nadajesz! Nie zagwarantuje to Tobie bezproblemowej drogi do sukcesu. Nie ustrzeże Cię przed trudnościami, przebijaniem się przez ściany skomplikowanych zagadnień i żmudną pracą. Przyda się jeszcze konsekwencja, włożenie szczerego wysiłku w to, by zrozumieć zagadnienia i procesy dla Ciebie trudne i szukanie pomocy kiedy gdzieś utkniesz. Nie potrzebujesz do programowania wyjątkowych uzdolnień, ani specjalnych talentów, tylko ciężkiej i konsekwentnej pracy. Dopóki sprawia Ci to satysfakcję i dopóki potrafisz zaakceptować porażki i się na nich uczyć, to będzie to Twój sukces.
 
-Konkluzje
+# Konkluzje
 
 Przedstawione przeze mnie rady nie są uniwersalne. Nie są też obiektywne. Są one zbiorem refleksji opartym na doświadczeniach, które cały czas zbieram. Idąc za swoją własną radą, dzielę się wskazówkami, które sama bym chciałą usłyszeć myśląc o przekwalifikowaniu. Mam nadzieję, że znajdziesz w nich również coś przydatnego dla Ciebie. ;) Powodzenia!
